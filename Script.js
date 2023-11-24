@@ -10,7 +10,7 @@ let button3 = document.querySelector("#btn3");
 
 document.addEventListener("click", ()=> {
         button2.style.transition = "10s";
-        button2.style.left = "47.5rem";
+        button2.style.left = "38em";
         button3.style.transition = "10s";
-        button3.style.left = "37.5rem";
+        button3.style.left = "30em";
     });
