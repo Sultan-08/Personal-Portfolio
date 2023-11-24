@@ -9,8 +9,6 @@ let button3 = document.querySelector("#btn3");
 // });
 
 document.addEventListener("click", ()=> {
-        sticker.style.transition = "13s";
-        sticker.style.left = "110rem";
         button2.style.transition = "10s";
         button2.style.left = "47.5rem";
         button3.style.transition = "10s";
