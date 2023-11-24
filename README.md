@@ -1,4 +1,4 @@
-#My Portfolio <br>
+<b>#My Portfolio</b> <br>
 A curated collection of my professional and creative endeavors, showcasing my skills, experience, and passion for Software Development.
 <br> <br>
 Within this portfolio, you'll discover: <br>
