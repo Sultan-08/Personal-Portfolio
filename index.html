@@ -182,6 +182,19 @@
             <div class="tab">
                 <a href="https://WWW.linkedin.com/in/sultan-mulani-306505205"><img src="./IMG/Linkedin.png" alt="Linkedin"></a>
                 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCHrhThWRkmPmwqdrSpNlTGlgZPzQHtfxTNkdjJbrHgwqpPKNlVrbkkQKhtbsjXDqwFPDKcg"><img src="./IMG/G-mail.png" alt="G-mail"></a>
+            
+                <button class="open-button" onclick="openForm()">Drop Your MSG</button>
+                <div class="form-popup" id="myForm">
+                <form action="/action_page.php" class="form-container">
+                    <h1>Drop Your Message Here !</h1>
+                    <label for="email"><b>Email</b></label>
+                    <input type="text" placeholder="Enter Email" name="email" required>
+                    <label for="msg"><b>Message</b></label>
+                    <input type="text" placeholder="Type your MSG here" name="msg" required>
+                    <button type="submit" class="btn">Submit</button>
+                    <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+                </form>
+                </div>
             </div>
         </section>
 <hr>
