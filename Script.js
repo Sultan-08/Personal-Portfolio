@@ -14,3 +14,10 @@ document.addEventListener("click", ()=> {
         button3.style.transition = "10s";
         button3.style.left = "30em";
     });
+
+function openForm() {
+        document.getElementById("myForm").style.display = "block";
+    }
+function closeForm() {
+        document.getElementById("myForm").style.display = "none";
+    }
