@@ -176,7 +176,6 @@ background: linear-gradient(25deg, rgba(2,0,36,1) 0%, rgba(233,203,255,1) 0%, rg
     object-fit: cover;
 }
 
-/* .project-card .project-title { margin: 0.2rem 5rem; } */
 
 .project-card h3 {
     font-size: 1.5rem;
@@ -199,7 +198,7 @@ background: linear-gradient(25deg, rgba(2,0,36,1) 0%, rgba(233,203,255,1) 0%, rg
 
 .buttons {
     /* display: flex; */
-    height: 15.5rem;
+    height: 10.5rem;
 }
 
 .sticker {
