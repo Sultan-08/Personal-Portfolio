@@ -1,6 +1,6 @@
 #My Portfolio <br>
 A curated collection of my professional and creative endeavors, showcasing my skills, experience, and passion for Software Development.
-<br>
+<br> <br>
 Within this portfolio, you'll discover: <br>
 • A concise overview of my professional background, highlighting my key achievements and contributions. <br>
 • A selection of my most compelling work, demonstrating my proficiency in Software Development. <br>
